@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ffc9f6c14394204ebccb2756e8a5971, type: 3}
+  m_Name: Dani
+  m_EditorClassIdentifier: 
+  nama: Dani
+  speed: 10
+  nyawa: 2
+  charaImg: {fileID: 21300000, guid: d5940e972757c9e4882fd489e581bbe9, type: 3}
+  controller: {fileID: 9100000, guid: 995a7e28ca1a12940a5c783f5c0bde9e, type: 2}
